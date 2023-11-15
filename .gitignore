@@ -1,1 +1,14 @@
+# Ignorer tous les fichiers .log
+*.log
+
+# Ignorer tous les fichiers .tmp
+*.tmp
+
+# Ignorer tous les fichiers .bak
+*.bak
+
+# Ignorer tous les fichiers .zip
+*.zip
+# Ignorer tous les fichiers .adb
 *.adb
+*.class
